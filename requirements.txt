@@ -1,0 +1,9 @@
+torch
+diffusers 
+transformers 
+accelerate
+safetensors 
+sentencepiece
+sentence-transformers
+pytorch-lightning
+git+https://github.com/openai/CLIP.git
